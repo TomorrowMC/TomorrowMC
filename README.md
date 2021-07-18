@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @TomorrowMC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TomorrowMC/TomorrowMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello
+不想做前端不想做后端的程序员
+### 目前再学JAVA，Swift学的很烂，Python还没开始学。。。
+### 作为一个大二程序员是不是太low了
