@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day1001/Day1001.iml" filepath="$PROJECT_DIR$/Day1001/Day1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1003/Day1003.iml" filepath="$PROJECT_DIR$/Day1003/Day1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1005/Day1005.iml" filepath="$PROJECT_DIR$/Day1005/Day1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day920/Day920.iml" filepath="$PROJECT_DIR$/Day920/Day920.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day923/Day923.iml" filepath="$PROJECT_DIR$/Day923/Day923.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day929/Day929.iml" filepath="$PROJECT_DIR$/Day929/Day929.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HighSenior.iml" filepath="$PROJECT_DIR$/HighSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathModel/MathModel.iml" filepath="$PROJECT_DIR$/MathModel/MathModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day828/day828.iml" filepath="$PROJECT_DIR$/day828/day828.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day829/day829.iml" filepath="$PROJECT_DIR$/day829/day829.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day831/day831.iml" filepath="$PROJECT_DIR$/day831/day831.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day902/day902.iml" filepath="$PROJECT_DIR$/day902/day902.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day906/day906.iml" filepath="$PROJECT_DIR$/day906/day906.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day908/day908.iml" filepath="$PROJECT_DIR$/day908/day908.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day909/day909.iml" filepath="$PROJECT_DIR$/day909/day909.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day916/day916.iml" filepath="$PROJECT_DIR$/day916/day916.iml" />
+    </modules>
+  </component>
+</project>
