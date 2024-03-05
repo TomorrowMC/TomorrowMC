@@ -3,7 +3,7 @@
 
 🪙8oreo.eth
 
-💻iOS iOS Developer:StaySleep、PromptBox
+💻iOS Developer:StaySleep、PromptBox
 
 🏫Web3/ETH Holder
 
